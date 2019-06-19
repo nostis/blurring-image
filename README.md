@@ -1,4 +1,4 @@
-# blurring_image
+# blurring-image
 Program with which you can blur (slightly) image
 
 First, place your source image in root folder (not in src etc.).
